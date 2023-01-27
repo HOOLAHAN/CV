@@ -12,6 +12,7 @@ I started my career as a civil engineer for one of the UK's largest main contact
 | **Tipsy Tourist**  | A web page to generate a pub crawl/tourist attractions itinerary | JavaScript, Node, Express, React, Chakra UI, Google API | [Tipsy Tourist Client](https://github.com/HOOLAHAN/tipsy-tourist) + [Tipsy Tourist Server](https://github.com/HOOLAHAN/tipsy-tourist-server) 
 | **Find A Film**    | A web page to search for films to watch | TypeScript, Node, Express, React, TMDB API              | [Find A Film Project](https://github.com/HOOLAHAN/Find_A_Film)
 | **Acebook**        | A social media web page                 | MongoDB, Express, React, Node                           | [Acebook Project](https://github.com/HOOLAHAN/acebook-mern-charisma)
+| **Daily News Summary**| A web page for searching and displaying news articles from The Guardian | JavaScript, Jest, HMTL, CSS, Guardian API     | [Daily News Summary Project](https://github.com/HOOLAHAN/News_Summary_Challenge)
 | **MakersBNB**      | A web page to list or book a stay       | Ruby, PostgreSQL, HMTL, CSS     | [MakersBNB Project](https://github.com/HOOLAHAN/arkle-bnb)
 
 ## Skills
@@ -19,21 +20,13 @@ I started my career as a civil engineer for one of the UK's largest main contact
 **Technical**
 - During my time on the Makers course, I learned the fundamentals of **Test Driven Development** and **Object Oriented Programming**. I made these concepts core to my process for tackling problems to help me break down the problem into smaller more manageable parts and write better quality code. An example of my process in action can be seen in [this tech test](https://github.com/HOOLAHAN/tech_tests/tree/main/bank_tech_test_ruby) 
 
-- As an engineer in construction one of my primary responsibilities was to manage the technical side of the build. This includes reviewing specifications and selecting the correct materials/processes to achieve a result that complies. When mistakes were made on site, I was responsible for documenting the issues and liaising with the client to agree and implement the solution for rectification. This demonstrates my attention to detail and ability to understand technical information/concepts. 
-
 **Project Management**
 - While on the Makers course, I have worked on 4 group projects and adopted the **agile principles** in the way we organised ourselves as a team. Pair programming, running stand-ups, sprint planning, code reviews, retros and doing demos for the team were daily practises and I saw the team reap all the benefits of being able to collaborate in this manner. Coming from an industry which values being physically present to be able to contribute, it has been refreshing to see how much more innovative and efficient teams can work while sometimes being on opposite ends of the country. 
 
-- Project management was the service we provided to our clients at Harbour Contractors Ltd, and we succeeded in delivering both our projects within an acceptable timeframe and budget to satisfy our clients. My strategy for tackling these projects was like my approach to coding problems i.e., breaking the problem down into manageable pieces and mapping a plan to work through them. I produced a construction programme for each project and regularly updated our clients on progress. Having a plan laid out meant that I was better at looking ahead to schedule upcoming works and better at adapting to change.
-
 **Communication**
-- I built [Find A Film](https://github.com/HOOLAHAN/Find_A_Film) with 4 colleagues working remotely over the Christmas course break. One challenge we overcame was balancing our varying social schedules with work over this period. We overcame this by being very communicative over Slack, Trello, Miro and Figma. We were able to collaborate on this project without the need to hold regular meetings, and everyone had a clear picture of where the team was currently, where we were heading and how we could contribute. 
+- I collaborated on [Find A Film](https://github.com/HOOLAHAN/Find_A_Film) with 4 colleagues working remotely over the Christmas course break. One challenge we overcame was balancing our varying social schedules with work over this period. We overcame this by being very communicative over Slack, Trello, Miro and Figma. We were able to collaborate on this project without the need to hold regular meetings, and everyone had a clear picture of where the team was currently, where we were heading and how we could contribute. 
 
-- On a daily basis throughout the course, I would carry out pair programming, in person and remotely. This was a great way to practise my communication skills because it involved vocalising technical concepts to my pair partner. This was also a good way to practise teamwork, regularly switching between driver and navigator and committing regularly with good messages. 
-
-- Providing a fortnightly progress review, presented to senior management during the stages leading up to a critical deadline on the Crossrail project. This took the format of a run-through of the relevant package construction programmes using a drop-line visual to highlight progress. 
-
-- Coaching junior members of the engineering team, providing them with the skills to excel their roles and develop their careers. During my time at Hinkley Point I worked with 3-4 direct reports who were from a variety of backgrounds. I adapted my coaching to work best with everyone's requirements. 
+- I pair programmed either in person or remotely on a regular basis throughout the course. This was a great way to practise communication of technical concepts and good teamwork practise, regularly switching between driver and navigator and committing with clear/useful messages. 
 
 ## Education
 
@@ -43,7 +36,7 @@ I started my career as a civil engineer for one of the UK's largest main contact
 - Worked with the following **languages**:
 *Ruby, JavaScript, TypeScript, SQL, HTML, CSS*
 - Worked with the following **libraries/frameworks**:
-*Node, Express, React, Jest, RSpec, Chakra UI*
+*Node, Express, React, Jest, Cypress, RSpec, Chakra UI*
 - Worked with the following **tools/technologies**:
 *Postman, TablePlus (PostgresSQL + MongoDB), MongoDB Atlas, Trello, Miro, Slack, Microsoft Office, Google Workspace*
 
