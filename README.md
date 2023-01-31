@@ -18,7 +18,7 @@ I started my career as a civil engineer for one of the UK's largest main contact
 ## Skills
 
 **Technical**
-- During my time on the Makers course, I learned the fundamentals of **Test Driven Development** and **Object Oriented Programming**. I made these concepts core to my process for tackling problems to help me break down the problem into smaller more manageable parts and write better quality code. An example of my process in action can be seen in [this tech test](https://github.com/HOOLAHAN/tech_tests/tree/main/bank_tech_test_ruby) 
+- During my time on the Makers course, I learned the fundamentals of **Test Driven Development** and **Object Oriented Programming**. I made these concepts core to my process for tackling problems to help me break down the problem into smaller more manageable parts and write better quality code. Example of my process in action can be seen in this [tech test repository](https://github.com/HOOLAHAN/tech_tests/tree/main) 
 
 **Project Management**
 - While on the Makers course, I have worked on 4 group projects and adopted the **agile principles** in the way we organised ourselves as a team. Pair programming, running stand-ups, sprint planning, code reviews, retros and doing demos for the team were daily practises and I saw the team reap all the benefits of being able to collaborate in this manner. Coming from an industry which values being physically present to be able to contribute, it has been refreshing to see how much more innovative and efficient teams can work while sometimes being on opposite ends of the country. 
