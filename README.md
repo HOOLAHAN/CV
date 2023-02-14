@@ -13,7 +13,7 @@ I started my career as a civil engineer for one of the UK's largest main contact
 | **Find A Film**    | A web page to search for films to watch | TypeScript, Node, Express, React, TMDB API              | [Find A Film Project](https://github.com/HOOLAHAN/Find_A_Film)
 | **Acebook**        | A social media web page                 | MongoDB, Express, React, Node                           | [Acebook Project](https://github.com/HOOLAHAN/acebook-mern-charisma)
 | **Daily News Summary**| A web page for searching and displaying news articles from The Guardian | JavaScript, Jest, HMTL, CSS, Guardian API     | [Daily News Summary Project](https://github.com/HOOLAHAN/News_Summary_Challenge)
-| **MakersBNB**      | A web page to list or book a stay       | Ruby, PostgreSQL, HMTL, CSS     | [MakersBNB Project](https://github.com/HOOLAHAN/arkle-bnb)
+| **MakersBNB**      | An Airbnb clone which lets users list or book a stay and chat with other users| Ruby, RSpec, PostgreSQL, HMTL, CSS, Twilio API | [MakersBNB Project](https://github.com/HOOLAHAN/arkle-bnb)
 
 ## Skills
 
