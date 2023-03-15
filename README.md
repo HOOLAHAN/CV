@@ -1,7 +1,7 @@
 ## Iain Hoolahan
 **Contact:**   | iain.hoolahan@gmail.com | [LinkedIn Profile](https://www.linkedin.com/in/iain-hoolahan-a51a41b8/) | +44(0)7545 959137
 
-I am a problem solver, lifelong learner and a **Software Engineer**. I have a  background in **Civil Engineering** and a passion for building and collaboration. I have recently enjoyed channelling this energy towards creating software solutions while completing the Makers Academy 4-month immersive coding bootcamp. 
+I am a **Full-Stack Software Developer** with a  background in **Civil Engineering** and a passion for problem solving, learning, building and collaboration. I have recently enjoyed channelling this energy towards creating software solutions while completing the Makers Academy 4-month immersive coding bootcamp. 
 
 I started my career as a civil engineer for one of the UK's largest main contactors and experienced working on two of the biggest and most technically challenging projects in the country. Following on from this I co-founded a business providing project management services to private clients in the domestic construction sector. I am motivated by finding innovative solutions to problems and working with inspiring people which has drawn me towards the tech industry and coding. 
 
@@ -10,8 +10,8 @@ I started my career as a civil engineer for one of the UK's largest main contact
 | Name               | Description                            | Tech/tools                                              | Link
 | -------------------| ---------------------------------------|---------------------------------------------------------|------------------
 | **Tipsy Tourist**  | A web page to generate a pub crawl/tourist attractions itinerary | JavaScript, Node, Express, React, Chakra UI, Google API | [Tipsy Tourist Client](https://github.com/HOOLAHAN/tipsy-tourist) + [Tipsy Tourist Server](https://github.com/HOOLAHAN/tipsy-tourist-server) 
-| **Find A Film**    | A web page to search for films to watch | TypeScript, Node, Express, React, TMDB API              | [Find A Film Project](https://github.com/HOOLAHAN/Find_A_Film)
-| **Acebook**        | A social media web page                 | MongoDB, Express, React, Node                           | [Acebook Project](https://github.com/HOOLAHAN/acebook-mern-charisma)
+| **Find A Film**    | A web page to search for films to watch | TypeScript, Node, Express, React, HTML, CSS, TMDB API              | [Find A Film Project](https://github.com/HOOLAHAN/Find_A_Film)
+| **Acebook**        | A social media web page  | MongoDB, Express, React, Node, HTML5, CSS3   | [Acebook Project](https://github.com/HOOLAHAN/acebook-mern-charisma)
 | **Daily News Summary**| A web page for searching and displaying news articles from The Guardian | JavaScript, Jest, HMTL, CSS, Guardian API     | [Daily News Summary Project](https://github.com/HOOLAHAN/News_Summary_Challenge)
 | **MakersBNB**      | An Airbnb clone which lets users list or book a stay and chat with other users| Ruby, RSpec, PostgreSQL, HMTL, CSS, Twilio API | [MakersBNB Project](https://github.com/HOOLAHAN/arkle-bnb)
 
@@ -72,6 +72,6 @@ I started my career as a civil engineer for one of the UK's largest main contact
 - **Graduate Development Programme** (2015-2018) additional technical training related to the role as well as training in other areas like EQ and commercial awareness.
 
 ## Hobbies
-- **Runner** - I find a post work run at least once a week is the best way to decompress and look after your mental/physical health!
+- **Runner** - I find a post work run at least once a week is the best way to decompress and look after my mental/physical health!
 - **Golfer** - On weekends you can often find me on the golf course (likely searching for the ball!)
 - **Sailor** - This sport requires a lot of focus and tactical thinking to get the best out of the boat in the ever- changing conditions!
