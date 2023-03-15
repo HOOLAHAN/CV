@@ -1,7 +1,7 @@
 ## Iain Hoolahan
 **Contact:**   | iain.hoolahan@gmail.com | [LinkedIn Profile](https://www.linkedin.com/in/iain-hoolahan-a51a41b8/) | +44(0)7545 959137
 
-I am a **Full-Stack Software Developer** with a  background in **Civil Engineering** and a passion for problem solving, learning, building and collaboration. I have recently enjoyed channelling this energy towards creating software solutions while completing the Makers Academy 4-month immersive coding bootcamp. 
+I am a **full stack software developer** with a  background in **civil engineering** and a passion for problem solving, learning, building and collaboration. I have recently enjoyed channelling this energy towards creating software solutions while completing the Makers Academy 4-month immersive coding bootcamp. 
 
 I started my career as a civil engineer for one of the UK's largest main contactors and experienced working on two of the biggest and most technically challenging projects in the country. Following on from this I co-founded a business providing project management services to private clients in the domestic construction sector. I am motivated by finding innovative solutions to problems and working with inspiring people which has drawn me towards the tech industry and coding. 
 
