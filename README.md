@@ -3,7 +3,7 @@
 
 I am a **full stack software developer** with a  background in **civil engineering** and a passion for problem solving, learning, building and collaboration. I have recently enjoyed channelling this energy towards creating software solutions while completing the Makers Academy 4-month immersive coding bootcamp. 
 
-I started my career as a civil engineer for one of the UK's largest main contactors and experienced working on two of the biggest and most technically challenging projects in the country. Following on from this I co-founded a business providing project management services to private clients in the domestic construction sector. I am motivated by finding innovative solutions to problems and working with inspiring people which has drawn me towards the tech industry and coding. 
+I started my career as a civil engineer for one of the UK's largest main contractors and experienced working on two of the biggest and most technically challenging projects in the country. Following on from this I co-founded a business providing project management services to private clients in the domestic construction sector. I am motivated by finding innovative solutions to problems and working with inspiring people which has drawn me towards the tech industry and coding. 
 
 ## Projects
 
