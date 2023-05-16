@@ -9,7 +9,7 @@ I started my career as a civil engineer for one of the UK's largest main contrac
 
 | Name               | Description                            | Tech/tools                                              | Link
 | -------------------| ---------------------------------------|---------------------------------------------------------|------------------
-| **Tipsy Tourist**  | A web page to generate a pub crawl/tourist attractions itinerary | JavaScript, Node, React, Chakra UI, Google API, Serverless, AWS Lambda | [Tipsy Tourist Client](https://github.com/HOOLAHAN/tipsy-tourist) + [Tipsy Tourist Server](https://github.com/HOOLAHAN/tipsy-tourist-server) 
+| **Tipsy Tourist**  | A web page to generate a pub crawl/tourist attractions itinerary | JavaScript, Node, React, Chakra UI, Google API, Serverless, AWS Lambda | [Tipsy Tourist](https://github.com/HOOLAHAN/tipsy-tourist)
 | **Find A Film**    | A web page to search for films to watch | TypeScript, Node, Express, React, HTML, CSS, TMDB API              | [Find A Film Project](https://github.com/HOOLAHAN/Find_A_Film)
 | **Acebook**        | A social media web page  | MongoDB, Express, React, Node, HTML5, CSS3   | [Acebook Project](https://github.com/HOOLAHAN/acebook-mern-charisma)
 | **Daily News Summary**| A web page for searching and displaying news articles from The Guardian | JavaScript, Jest, HMTL, CSS, Guardian API     | [Daily News Summary Project](https://github.com/HOOLAHAN/News_Summary_Challenge)
@@ -44,7 +44,7 @@ I started my career as a civil engineer for one of the UK's largest main contrac
 - Worked with the following **libraries/frameworks**:
 *Node, Express, React, Jest, Cypress, RSpec, Chakra UI, Serverless*
 - Worked with the following **tools/technologies**:
-*Postman, TablePlus (PostgresSQL + MongoDB), MongoDB Atlas, Trello, Miro, Slack, Microsoft Office, Google Workspace*
+*AWS, Postman, TablePlus (PostgresSQL + MongoDB), MongoDB Atlas, Trello, Miro, Slack, Google Cloud, Microsoft Office, Google Workspace*
 
 #### Cardiff University (2011 to 2015)
 
