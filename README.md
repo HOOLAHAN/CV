@@ -9,11 +9,12 @@ I started my career as a civil engineer for one of the UK's largest main contrac
 
 | Name               | Description                            | Tech/tools                                              | Link
 | -------------------| ---------------------------------------|---------------------------------------------------------|------------------
-| **Tipsy Tourist**  | A web page to generate a pub crawl/tourist attractions itinerary | JavaScript, Node, React, Chakra UI, Google API, Serverless, AWS Lambda | [Tipsy Tourist Repo](https://github.com/HOOLAHAN/tipsy-tourist) + [Tipsy Tourist Website](http://tipsytourist.s3-website.eu-west-2.amazonaws.com/)
-| **Find A Film**    | A web page to search for films to watch | TypeScript, Node, Express, React, HTML, CSS, TMDB API              | [Find A Film Project](https://github.com/HOOLAHAN/Find_A_Film)
-| **Acebook**        | A social media web page  | MongoDB, Express, React, Node, HTML5, CSS3   | [Acebook Project](https://github.com/HOOLAHAN/acebook-mern-charisma)
+|**StratoStruct** | A full-stack MERN app with authorisation, authentication, and password encryption. It enables users to select construction products and receive a shortlist of nearby suppliers. Admins can manage suppliers and products in the database |  MongoDB, Express, React, Node, HTML, CSS, Mapbox API |[StratoStruct](https://github.com/HOOLAHAN/stratostruct_client)
+| **Tipsy Tourist**  | A web page which uses Google APIs to generate a pub crawl/tourist attractions itinerary, plot the route on a map and provide extra details on each location | JavaScript, Node, React, Chakra UI, Google API, Serverless, AWS Lambda | [Tipsy Tourist Repo](https://github.com/HOOLAHAN/tipsy-tourist) + [Tipsy Tourist Website](http://tipsytourist.s3-website.eu-west-2.amazonaws.com/)
+| **Find A Film**    |A film search web app that lets users search for a film, sort, filter, and quickly determine which platform offers it for streaming, rental, or purchase | TypeScript, Node, Express, React, HTML, CSS, TMDB API              | [Find A Film Project](https://github.com/HOOLAHAN/Find_A_Film)
+| **Acebook**        | A full-stack MERN social media app with authorisation and authentication, password encryption, and a clean UI. Users can ‘friend/unfriend’ other users, post comments, like comments, and select their avatar | MongoDB, Express, React, Node, HTML, CSS   | [Acebook Project](https://github.com/HOOLAHAN/acebook-mern-charisma)
 | **Daily News Summary**| A web page for searching and displaying news articles from The Guardian | JavaScript, Jest, HMTL, CSS, Guardian API     | [Daily News Summary Project](https://github.com/HOOLAHAN/News_Summary_Challenge)
-| **MakersBNB**      | An Airbnb clone which lets users list or book a stay and chat with other users| Ruby, RSpec, PostgreSQL, HMTL, CSS, Twilio API | [MakersBNB Project](https://github.com/HOOLAHAN/arkle-bnb)
+| **MakersBNB**      | A CRUD application which lets users list a property, book a stay and chat with other users| Ruby, RSpec, PostgreSQL, HMTL, CSS, Twilio API | [MakersBNB Project](https://github.com/HOOLAHAN/arkle-bnb)
 
 ## Skills
 
