@@ -61,7 +61,6 @@ I started my career as a civil engineer for one of the UK's largest main contrac
 - Used project management / organisational skills and took ownership of the whole process from start to finish.
 - Managed a wide range of stakeholders. Reported on programme and budget on a regular basis to the client. Managed sub-contractors to ensure quality and resolved conflicts where required. 
 - Going from one of the largest UK contractors to self-employed with this level of responsibility shows that I am self-motivated, a fast-learner, adaptable to change and comfortable with taking accountability.
-- [Harbour Contractors website](https://harbourcontractors.co.uk/)
 
 **Laing O'Rourke** (Sept-2015 to Aug-2020) _Civil Engineer_
 
