@@ -54,6 +54,13 @@ I started my career as a civil engineer for one of the UK's largest main contrac
 
 ## Work Experience
 
+**Freelance** (Apr 2023 - Present) _Engineer / Surveyor_
+-	Working on Gatwick Airport train station for roofing/cladding specialist sub-contractor.
+-	Collaborated with client to understand project requirements and objectives, ensuring effective communication.
+-	Conducted site surveys, utilising advanced surveying equipment/software.
+-	Prepared accurate and detailed survey reports, delivering comprehensive documentation to clients for informed decision-making.
+- Applied engineering principles and best practices to resolve technical challenges encountered on-site, optimising project efficiency.
+
 **Harbour Contractors Ltd** (Sep 2020 to Aug 2022) _Director_
 
 - Co-founded a small-scale construction management firm focussing in the domestic sector. 
