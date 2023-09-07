@@ -1,9 +1,9 @@
 ## Iain Hoolahan
 **Contact:**   | iain.hoolahan@gmail.com | [LinkedIn Profile](https://www.linkedin.com/in/iain-hoolahan-a51a41b8/) | +44(0)7545 959137
 
-I am a **full stack software developer** with a  background in **civil engineering** and a passion for problem solving, learning, building and collaboration. I have recently enjoyed channelling this energy towards creating software solutions while completing the Makers Academy 4-month immersive coding bootcamp. 
+I am a **software developer** with a  background in **civil engineering** and a passion for problem solving, learning, building and collaboration. I have recently enjoyed channelling this energy towards creating software solutions while completing the Makers Academy 4-month immersive coding bootcamp. 
 
-I started my career as a civil engineer for one of the UK's largest main contractors and experienced working on two of the biggest and most technically challenging projects in the country. Following on from this I co-founded a business providing project management services to private clients in the domestic construction sector. I am motivated by finding innovative solutions to problems and working with inspiring people which has drawn me towards the tech industry and coding.
+I started my career as a civil engineer for one of the UK's leading main contractors and experienced working on two major infrastructure projects (Crossrail and Hinkley Point C). Following on from this I co-founded a business providing project management services to private clients in the domestic construction sector, successfully delivering two new build projects in two years. I am motivated by finding innovative solutions to problems and collaborating with inspiring people which has drawn me towards the tech industry and coding.
 
 To view some live examples of my work you can follow this [**link**](http://www.iainhoolahan.com/)🔗 to my online **portfolio**. 
 
@@ -36,7 +36,7 @@ To view some live examples of my work you can follow this [**link**](http://www.
 
 - Throughout the Makers course, I regularly engaged in pair programming, both in-person and remotely. This practice enhanced my ability to communicate technical concepts clearly and improved my teamwork skills. By switching roles between the driver and navigator, I honed my collaborative abilities and ensured that my commit messages were concise and informative.
 
-- During my career in construction, I consistently emphasised clear and effective communication. It was crucial to provide accurate and comprehensive works information, ensuring proper understanding and adherence. I developed a habit of regularly checking in with installers to confirm alignment and address any concerns promptly.
+- During my career in construction, I consistently emphasised clear and effective communication. It was crucial to provide accurate and comprehensive works information, ensuring proper understanding and adherence. I would regularly check in with installers to confirm alignment and address any concerns promptly.
 
 ## Education
 
@@ -70,7 +70,7 @@ To view some live examples of my work you can follow this [**link**](http://www.
 - Delivered a £1.9M new-build project and £800K extension for private clients.
 - Used project management / organisational skills and took ownership of the whole process from start to finish.
 - Managed a wide range of stakeholders. Reported on programme and budget on a regular basis to the client. Managed sub-contractors to ensure quality and resolved conflicts where required. 
-- Going from one of the largest UK contractors to self-employed with this level of responsibility shows that I am self-motivated, a fast-learner, adaptable to change and comfortable with taking accountability.
+- Going from one of the largest UK contractors to self-employed with this level of responsibility shows that I am self-motivated, a fast-learner, adaptable to change and comfortable with taking on responsibility.
 - [Harbour Contractors Ltd - Website](http://harbourcontractors.s3-website.eu-west-2.amazonaws.com/)
 
 **Laing O'Rourke** (Sept-2015 to Aug-2020) _Civil Engineer_
