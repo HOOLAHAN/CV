@@ -55,8 +55,7 @@ To view some live examples of my work you can follow this [**link**](http://www.
 - MEng Civil Engineering
 - Grade 2:1
 
-## Work Experience
-
+## Employment History
 **Freelance** (Apr 2023 - Present) _Engineer / Surveyor_
 -	Working on Gatwick Airport train station for roofing/cladding specialist sub-contractor.
 -	Collaborated with client to understand project requirements and objectives, ensuring effective communication.
