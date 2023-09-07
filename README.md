@@ -29,7 +29,7 @@ To view some live examples of my work you can follow this [**link**](http://www.
 **Collaboration**
 - Throughout my time at Makers, I actively participated in four group projects, where I embraced agile principles to facilitate seamless teamwork. I engaged in various collaborative practices such as pair programming, conducting stand-ups, sprint planning, code reviews, retrospectives, and team demos. By adopting these methodologies, our teams achieved innovation and efficiency, even while working remotely from different locations. This experience has shown me the immense value of effective collaboration and its positive impact on project outcomes.
 
-- During my role as a project manager, I successfully oversaw a [£1.9M new-build](https://harbourcontractors.co.uk/projects) house project spanning two years. I effectively divided the project into manageable packages and contracted specialists to handle each segment. By establishing strong relationships and maintaining open lines of communication, I ensured the project's smooth progress. Whenever conflicts arose, I employed collaboration and effective communication to reach resolutions that benefited all stakeholders involved.
+- During my role as a project manager, I successfully oversaw a [£1.9M new-build](http://www.harbourcontractors.co.uk/projects) house project spanning two years. I effectively divided the project into manageable packages and contracted specialists to handle each segment. By establishing strong relationships and maintaining open lines of communication, I ensured the project's smooth progress. Whenever conflicts arose, I employed collaboration and effective communication to reach resolutions that benefited all stakeholders involved.
 
 **Communication**
 - While collaborating on the [Find A Film](https://github.com/HOOLAHAN/Find_A_Film) project with remote colleagues over the Christmas course break, we faced the challenge of balancing our diverse social schedules with work commitments. To overcome this, we maintained constant communication channels through Slack, Trello, Miro, and Figma. These platforms enabled us to collaborate effectively without the need for frequent meetings. Everyone on the team had a clear understanding of our current progress, future objectives, and how we could contribute individually. This experience exemplified my proficiency in remote collaboration and effective communication tools.
@@ -71,7 +71,7 @@ To view some live examples of my work you can follow this [**link**](http://www.
 - Used project management / organisational skills and took ownership of the whole process from start to finish.
 - Managed a wide range of stakeholders. Reported on programme and budget on a regular basis to the client. Managed sub-contractors to ensure quality and resolved conflicts where required. 
 - Going from one of the largest UK contractors to self-employed with this level of responsibility shows that I am self-motivated, a fast-learner, adaptable to change and comfortable with taking on responsibility.
-- [Harbour Contractors Ltd - Website](http://harbourcontractors.s3-website.eu-west-2.amazonaws.com/)
+- [Harbour Contractors Ltd - Website](http://www.harbourcontractors.co.uk/)
 
 **Laing O'Rourke** (Sept-2015 to Aug-2020) _Civil Engineer_
 
