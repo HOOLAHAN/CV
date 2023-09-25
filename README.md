@@ -1,9 +1,11 @@
 ## Iain Hoolahan
 **Contact:**   | iain.hoolahan@gmail.com | [LinkedIn Profile](https://www.linkedin.com/in/iain-hoolahan-a51a41b8/) | +44(0)7545 959137
 
-I am a **software developer** with a  background in **civil engineering** and a passion for problem solving, learning, building and collaboration. I have recently enjoyed channelling this energy towards creating software solutions while completing the Makers Academy 4-month immersive coding bootcamp. 
+I am a **software engineer** with a  background in **civil engineering** and a passion for problem solving, continuous learning and collaborative innovation. 
 
 I started my career as a civil engineer for one of the UK's leading main contractors and experienced working on two major infrastructure projects (Crossrail and Hinkley Point C). Following on from this I co-founded a business providing project management services to private clients in the domestic construction sector, successfully delivering two new build projects in two years. I am motivated by finding innovative solutions to problems and collaborating with inspiring people which has drawn me towards the tech industry and coding.
+
+After completing the Makers Academy 4-month immersive coding bootcamp, where I learnt the value of agile, test-driven development with object-oriented design, I am now looking to expand my software engineering experience.
 
 To view some live examples of my work you can follow this [**link**](http://www.iainhoolahan.com/)🔗 to my online **portfolio**. 
 
