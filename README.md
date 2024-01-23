@@ -65,7 +65,7 @@ To view some live examples of my work you can follow this [**link**](http://www.
 - Prepared accurate and detailed survey reports, delivering comprehensive documentation to clients for informed decision-making.
 - Applied engineering principles and best practices to resolve technical challenges encountered on-site, optimising project efficiency.
 
-**Harbour Contractors Ltd** (Sep 2020 to Aug 2022) _Director_
+**Harbour Contractors Ltd** (Sep 2020 to Aug 2022) _Project Manager_
 
 - Co-founded and managed a successful construction management firm that specialised in domestic projects, overseeing a £1.9M new-build project and an £800K extension for private clients.
 - Demonstrated expert project management and organisational skills to take ownership of the entire process from start to finish.
