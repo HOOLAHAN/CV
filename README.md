@@ -81,6 +81,8 @@ To view some live examples of my work you can follow this [**link**](http://www.
 - **Graduate Development Programme** (2015-2018) additional technical training related to the role as well as training in other areas like EQ and commercial awareness.
 
 ## Hobbies
-- **Runner** - I find a post work run at least once a week is the best way to decompress and look after my mental/physical health!
-- **Golfer** - On weekends you can often find me on the golf course (likely searching for the ball!)
-- **Sailor** - This sport requires a lot of focus and tactical thinking to get the best out of the boat in the ever- changing conditions!
+- **Fitness, Hockey & Golf:** Committed to regular workouts for both mental and physical well-being. Weekends are often spent playing for a London-based hockey club or on the golf course, balancing team engagement
+with individual pursuits.
+- **Sailing:** Passionate about sailing, a sport that demands intense focus, strategic thinking, and the ability to adapt to changing conditions. Embrace the challenges and tranquility of being on the water.
+- **Reading:** Enthusiastic reader with a diverse palette, ranging from fiction and fantasy to motivational literature and Greek mythology. Reading provides a gateway to different worlds, ideas, and inspirations,
+enriching my understanding and creativity.
