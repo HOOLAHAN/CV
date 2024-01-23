@@ -60,19 +60,17 @@ To view some live examples of my work you can follow this [**link**](http://www.
 
 ## Employment History
 **Freelance** (Apr 2023 - Present) _Engineer / Surveyor_
--	Working on Gatwick Airport train station for roofing/cladding specialist sub-contractor.
--	Collaborated with client to understand project requirements and objectives, ensuring effective communication.
--	Conducted site surveys, utilising advanced surveying equipment/software.
--	Prepared accurate and detailed survey reports, delivering comprehensive documentation to clients for informed decision-making.
+- Collaborated with clients on multiple projects across London area to understand project requirements and objectives, ensuring effective communication.
+- Conducted site surveys, utilising advanced surveying equipment/software.
+- Prepared accurate and detailed survey reports, delivering comprehensive documentation to clients for informed decision-making.
 - Applied engineering principles and best practices to resolve technical challenges encountered on-site, optimising project efficiency.
 
 **Harbour Contractors Ltd** (Sep 2020 to Aug 2022) _Director_
 
-- Co-founded a small-scale construction management firm focussing in the domestic sector. 
-- Delivered a £1.9M new-build project and £800K extension for private clients.
-- Used project management / organisational skills and took ownership of the whole process from start to finish.
-- Managed a wide range of stakeholders. Reported on programme and budget on a regular basis to the client. Managed sub-contractors to ensure quality and resolved conflicts where required. 
-- Going from one of the largest UK contractors to self-employed with this level of responsibility shows that I am self-motivated, a fast-learner, adaptable to change and comfortable with taking on responsibility.
+- Co-founded and managed a successful construction management firm that specialised in domestic projects, overseeing a £1.9M new-build project and an £800K extension for private clients.
+- Demonstrated expert project management and organisational skills to take ownership of the entire process from start to finish.
+- Managed multiple stakeholders, including sub-contractors, and provided regular updates to clients on progress and budget to ensure successful completion of each project.
+- Transitioned from a large UK contractor to self-employment, showcasing self-motivation, adaptability, and a strong sense of accountability.
 - [Harbour Contractors Ltd - Website](http://www.harbourcontractors.co.uk/)
 
 **Laing O'Rourke** (Sept-2015 to Aug-2020) _Civil Engineer_
